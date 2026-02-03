@@ -1,0 +1,27 @@
+
+---
+
+# 📄 .gitignore (Clean & Professional)
+
+```gitignore
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated reports
+report.txt
+
+# Logs (optional – keep sample.log if you want)
+logs/*.log
+
+# Virtual environments
+venv/
+env/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
