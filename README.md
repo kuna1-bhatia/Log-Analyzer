@@ -44,7 +44,9 @@ ERROR Failed to connect to database
 INFO Retrying connection
 ERROR Database connection timeout
 
+
 📊 Sample Output (report.txt)
+
 
 📊 Log Analysis Report
 ----------------------
@@ -52,9 +54,11 @@ INFO messages    : 2
 WARNING messages : 1
 ERROR messages   : 2
 
+
 ❌ Error Details:
 - ERROR Failed to connect to database
 - ERROR Database connection timeout
+
 
 📌 Use Cases
 
@@ -68,6 +72,7 @@ ERROR messages   : 2
 
 • Entry-level automation projects
 
+
 🔮 Future Enhancements
 
 • Support large log files
@@ -79,6 +84,7 @@ ERROR messages   : 2
 • Real-time log monitoring
 
 Dockerize the analyzer
+
 
 📄 License
 
